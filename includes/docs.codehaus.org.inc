@@ -93,6 +93,7 @@ RewriteRule ^/display/GROOVY/Functional.Programming.with.Groovy(.*)             
 RewriteRule ^/display/GROOVY/Reading.XML.using.Groovy's.XmlSlurper(.*)                             http://groovy-lang.org/processing-xml.html [R,NE,L]
 RewriteRule ^/display/GROOVY/Writing.Domain.Specific.Languages(.*)                                 http://docs.groovy-lang.org/docs/latest/html/documentation/core-domain-specific-languages.html [R,NE,L]
 RewriteRule ^/display/GROOVY/Groovy.style.and.language.feature.guidelines.for.Java.developers(.*)  http://groovy-lang.org/style-guide.html [R,NE,L]
+RewriteRule ^/display/GROOVY/.*                                                                    http://groovy-lang.org/ [R,NE,L]
 
 ##################################
 # FALLBACK                       #
